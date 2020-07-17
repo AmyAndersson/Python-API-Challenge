@@ -1,4 +1,4 @@
-City,Latitude,Longitude,Country,Temperate (°C),Humidity (%),Cloudiness (%),windspeed (m/s)
+City,Latitude,Longitude,Country,Temperature (C),Humidity (%),Cloudiness (%),windspeed (m/s)
 Nishihara,26.18,127.76,JP,26.38,94,75,5.7
 Rocha,-34.48,-54.33,UY,6.36,93,5,2.39
 Rikitea,-23.12,-134.97,PF,22.95,82,100,1.17
